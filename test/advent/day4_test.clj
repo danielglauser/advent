@@ -1,4 +1,4 @@
-(ns advent.day3-test
+(ns advent.day4-test
   (:require  [clojure.test :refer :all]
              [advent.day3 :refer :all]))
 

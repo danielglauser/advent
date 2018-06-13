@@ -1,4 +1,4 @@
-(ns advent.day3
+(ns advent.day4
   (:require [clojure.string :as str]))
 
 (defn valid-passphrase?
